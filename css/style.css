@@ -5,3 +5,17 @@ h1 {
   padding-bottom: 8px;
   border-bottom: 1px solid #ddd;
 }
+
+main {
+  display:flex;
+  margin: 20px 80px 20px 60px;
+}
+
+main img {
+  width: 200px;
+  border-radius: 10%;
+}
+
+main p {
+  align-self: start;
+}
